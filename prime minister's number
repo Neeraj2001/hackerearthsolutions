@@ -80,7 +80,7 @@ bool sum(long long i)
     }
    // cout<<i<<" "<<sum<<endl;
    if(checkprime(sum)) return true;
-   else false;
+   else return false;
     
 }
 
